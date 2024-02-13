@@ -1,0 +1,35 @@
+.list-item {
+  list-style-type: none;
+  width: 20%;
+  margin-left: 5px;
+}
+
+.image {
+  width: 98%;
+}
+
+.name-btn-con {
+  background-color: #1f1f2f;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.name {
+  color: #f1f5f9;
+  font-size: 18px;
+  font-family: roboto;
+}
+
+.remove-btn {
+  background-color: transparent;
+  border: 2px solid #cbd5e1;
+  border-radius: 6px;
+  color: #f8fafc;
+  font-size: 12px;
+  padding: 8px;
+  cursor: pointer;
+}
